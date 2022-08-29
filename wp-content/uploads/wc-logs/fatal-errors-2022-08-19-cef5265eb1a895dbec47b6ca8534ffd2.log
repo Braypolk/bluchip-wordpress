@@ -1,0 +1,20 @@
+2022-08-19T16:35:11+00:00 CRITICAL Uncaught TypeError: WPGraphQL\Admin\Settings\SettingsRegistry::sanitize_options(): Argument #1 ($options) must be of type array, string given, called in /opt/bitnami/wordpress/wp-includes/class-wp-hook.php on line 309 and defined in /bitnami/wordpress/wp-content/plugins/wp-graphql/src/Admin/Settings/SettingsRegistry.php:565
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(309): WPGraphQL\Admin\Settings\SettingsRegistry->sanitize_options()
+#1 /opt/bitnami/wordpress/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /opt/bitnami/wordpress/wp-includes/formatting.php(4988): apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/option.php(424): sanitize_option()
+#4 /opt/bitnami/wordpress/wp-admin/options.php(322): update_option()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/wp-graphql/src/Admin/Settings/SettingsRegistry.php on line 565
+
+2022-08-19T16:35:23+00:00 CRITICAL Uncaught TypeError: WPGraphQL\Admin\Settings\SettingsRegistry::sanitize_options(): Argument #1 ($options) must be of type array, string given, called in /opt/bitnami/wordpress/wp-includes/class-wp-hook.php on line 309 and defined in /bitnami/wordpress/wp-content/plugins/wp-graphql/src/Admin/Settings/SettingsRegistry.php:565
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(309): WPGraphQL\Admin\Settings\SettingsRegistry->sanitize_options()
+#1 /opt/bitnami/wordpress/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /opt/bitnami/wordpress/wp-includes/formatting.php(4988): apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/option.php(424): sanitize_option()
+#4 /opt/bitnami/wordpress/wp-admin/options.php(322): update_option()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/wp-graphql/src/Admin/Settings/SettingsRegistry.php on line 565
+

@@ -1,0 +1,14 @@
+2022-08-18T18:50:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
+2022-08-18T18:54:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
+2022-08-18T19:15:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
+2022-08-18T19:18:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
+2022-08-18T19:25:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
+2022-08-18T19:33:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
+2022-08-18T20:53:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /opt/bitnami/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 779
+
